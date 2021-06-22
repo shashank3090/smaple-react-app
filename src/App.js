@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Shanu
+          Learn React with Shanu now!
         </a>
       </header>
     </div>
